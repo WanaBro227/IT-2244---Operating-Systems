@@ -128,6 +128,11 @@ int main() {
     printf("Enter the date: ");
     scanf("%i", &date);
 
+    if (date < 1 || date > 31) {
+        printf("Invalid input....!\n");
+        return 0;
+    }
+
     int a = date % 10;
     int b = date / 10;
     int c = a + b;
