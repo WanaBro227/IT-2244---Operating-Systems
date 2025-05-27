@@ -21,6 +21,7 @@ This repository demonstrates various use cases of process creation and managemen
 **Key Output Concepts:**
 - `fork()` returns 0 to the child and a non-zero value to the parent.
 - `getpid()` shows the process ID of the current process.
+![Code_01](https://github.com/user-attachments/assets/d71310db-c92d-487f-b19b-ef15acffc73b)
 
 ---
 
@@ -31,6 +32,7 @@ This repository demonstrates various use cases of process creation and managemen
 
 **Key Output Concept:**
 - "Hello world!" gets printed 4 times due to 2 `fork()` calls (2^2 = 4 processes).
+![Code_02](https://github.com/user-attachments/assets/ad72be5d-7dda-4bb0-8d8e-d35997e01393)
 
 ---
 
@@ -41,6 +43,7 @@ This repository demonstrates various use cases of process creation and managemen
 
 **Key Output Concept:**
 - Use of `getpid()` and `getppid()` for better understanding of process hierarchy.
+![Code_03](https://github.com/user-attachments/assets/8e4d3834-645c-4574-9cc9-d7e3727757a4)
 
 ---
 
@@ -50,6 +53,7 @@ This repository demonstrates various use cases of process creation and managemen
 
 **Key Output Concept:**
 - Useful for visualizing process branching logic.
+![Code_03_01](https://github.com/user-attachments/assets/6531e5ea-6db2-4e2a-b27f-dab1c46870e1)
 
 ---
 
@@ -59,6 +63,7 @@ This repository demonstrates various use cases of process creation and managemen
 
 **Key Output Concept:**
 - All child processes display their PID and their parent's PID to establish the relationship clearly.
+![Code_04](https://github.com/user-attachments/assets/b8b677b3-0260-4390-995a-c294e782e324)
 
 ---
 
