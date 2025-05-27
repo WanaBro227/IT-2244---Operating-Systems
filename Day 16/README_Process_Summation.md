@@ -29,6 +29,7 @@ This README provides details of two simple C programs that demonstrate:
 I'm Parent Process. My id is 12345
 I'm Child Process. My parent process id is 12345
 ```
+![Code_1](https://github.com/user-attachments/assets/3634317c-5f99-4f9c-b4b0-c515bf30aaf0)
 
 ---
 
@@ -55,6 +56,7 @@ I'm Parent Process
 6 7 8 9 10
 Parent process summation is 40
 ```
+![Code_2](https://github.com/user-attachments/assets/40dfc361-2207-4636-b960-de55748ca794)
 
 ---
 
