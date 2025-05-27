@@ -26,6 +26,7 @@ This repository demonstrates how to manage parent and child processes using the 
 I'm Parent Process. My id is 12345
 I'm Child Process. My parent process id is 12345
 ```
+![Code_1](https://github.com/user-attachments/assets/50589a36-5a98-46dd-a283-fb7b360dc6d4)
 
 ---
 
